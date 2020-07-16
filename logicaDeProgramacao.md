@@ -41,8 +41,8 @@
 
 
     funcao conversorDeTemperatura(F) {
-    variavel C = (F – 32)5/9;
-    escrever(“o valor de ” + F + “Fahrenheits em Célsius é ” + C);
+    	variavel C = (F – 32)5/9;
+    	escrever(“o valor de ” + F + “Fahrenheits em Célsius é ” + C);
     };
 
 	//exemplo
