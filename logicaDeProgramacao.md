@@ -34,10 +34,10 @@
     	};
     };
 
-//exemplo
-abrirApp(mão esquerda, bolso esquerdo do casaco, Xiaomi MiA2, SmartMEI);
+	//exemplo
+	abrirApp(mão esquerda, bolso esquerdo do casaco, Xiaomi MiA2, SmartMEI);
 
-**2 – **
+**2 –**
 
 
     funcao conversorDeTemperatura(F) {
@@ -45,5 +45,6 @@ abrirApp(mão esquerda, bolso esquerdo do casaco, Xiaomi MiA2, SmartMEI);
     escrever(“o valor de ” + F + “Fahrenheits em Célsius é ” + C);
     };
 
-//exemplo
-conversorDeTemperatura(212) // “o valor de 212 Fahrenheits em Célsius é 100”
+	//exemplo
+	conversorDeTemperatura(212);
+	// “o valor de 212 Fahrenheits em Célsius é 100”
